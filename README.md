@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a full stack project with Typescript,Nest.js, MongoDB,React. Eco-Farmer
 
-- 🌱 Working with Java, c# asp.net, AWS and Python. Also studying an specializacion in Blockchain - Cryptography, Machine Learning and Functional Programming at ITU University Copenhagen.
+- 🌱 Working with Java, c# asp.net, AWS and Python. Also studying an specializacion in Software Engineering at ITU University Copenhagen.
 
 
 - ⚡ Fun fact: I teach meditation, like fitness, nutrition, travelling and organic farming 🌱. 
