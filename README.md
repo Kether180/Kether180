@@ -2,7 +2,7 @@
 ### Hi there, I´m Alexander | Software Engineering 👋👋✨🌱
 
 
-- 🔭 I’m currently working on a full stack project with Typescript,Nest.js, MongoDB,React. Eco-Farmer
+- 🔭 I’m currently working on a project called Ecofarmer, Which helps to sell organic products from local farmers: full stack project with Typescript,React, dotnet core , c#, Postgresql. 
 
 - 🌱 Working with Java, c# asp.net, Postgresql and Python. 
 
