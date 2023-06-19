@@ -2,10 +2,11 @@
 ### Hi there, I´m Alexander | Software Engineering 👋👋✨🌱
 
 
-- 🔭 I’m currently working on a project called Ecofarmer, Which helps to sell organic products from local farmers: full stack project with Typescript,React, dotnet core , c#, Postgresql. 
+- 🔭 I’m currently working on a project called Ecofarmer, which helps to sell organic products from local farmers: Typescript,React, dotnet core , c#, Postgresql. 
 
-- 🌱 Working with Java, c# asp.net, Postgresql and Python. 
-
+- 🌱 Currently working with OOP Java, c#  and learning machine learning skills with Python
+  
+- Developing my DevSecOps skills : Linux, GitActions CI/CD ,Kali-linux Metasploit, Containers & Docker Swarm.
 
 - ⚡ Fun fact: I teach meditation, like fitness, nutrition, travelling and organic farming 🌱. 
 
