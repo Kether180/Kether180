@@ -2,7 +2,7 @@
 ### Hi there, I´m Alexander | Software Engineering 👋👋✨🌱
 
 
-- 🔭 I’m currently working on a project called Ecofarmer, which helps to sell organic products from local farmers: Typescript,React, dotnet core , c#, Postgresql. 
+- 🔭 I’m currently working on a project called Ecofarmer, which helps to sell organic products from local farmers.
 
 - 🌱 Currently working with OOP Java, c#  and learning machine learning skills with Python
   
@@ -17,7 +17,7 @@
     
     def __init__(self):
         self.name = "Alexander"
-        self.roles = ["Backend-developer", "Full-stack-developer","CTO"]
+        self.roles = ["Backend-developer","CTO"]
         self.skills = ["DevOps","API Design", "Management"]
         self.email = ["conscientia.digitaltech@gmail.com"]
         self.main_skills = ["DevOps", "API Design", "Management"]
