@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on a project called Ecofarmer, which helps to sell organic products from local farmers.
 
-- 🌱 Currently working with OOP Java, c#  and learning machine learning skills with Python
+- 🌱 Currently working with OOP Java, c# and learning machine learning skills with Python
   
-- Developing my DevSecOps skills : Linux, GitActions CI/CD ,Kali-linux Metasploit, Containers & Docker Swarm.
+- Developing my DevSecOps, and learning about robotics and security
 
 - ⚡ Fun fact: I teach meditation, like fitness, nutrition, travelling and organic farming 🌱. 
 
