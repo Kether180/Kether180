@@ -2,9 +2,7 @@
 ### Hi there, I´m Alexander | Software Engineering 👋👋✨🌱
 
 
-- 🔭 I’m currently working on a project called Ecofarmer, which helps to sell organic products from local farmers.
-
-- 🌱 Currently working with Typescript/Javascript, Java, C++  and learning machine learning skills with Python
+- 🌱 Currently working with Vue/ Typescript/Javascript, Java, C++  and learning machine learning skills with Python
   
 - Developing my DevSecOps, and learning about robotics and security
 
