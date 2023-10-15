@@ -4,7 +4,7 @@
 
 - 🌱 Currently working with Vue/ Typescript/Javascript, Java, C++, learning machine learning/Python
   
-- DevSecOps robotics,security.
+- DevSecOps, robotics, security.
 
 - ⚡ Fun fact: I teach meditation, like fitness, nutrition, travelling and organic farming 🌱. 
 
