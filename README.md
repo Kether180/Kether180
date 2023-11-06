@@ -2,9 +2,9 @@
 ### Hi there, I´m Alexander | Software Engineering 👋👋✨🌱
 
 
-- 🌱 Currently working with Vue/ Typescript/Javascript, Java, C++, learning machine learning/Python
+- 🌱 Currently working with Vue/ Typescript/Javascript, Java, Deeplearning, Python.
   
-- DevSecOps, robotics, security.
+- DevSecOps, Robotics, Embedded Systems.
 
 - ⚡ Fun fact: I teach meditation, like fitness, nutrition, travelling and organic farming 🌱. 
 
