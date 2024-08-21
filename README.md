@@ -1,10 +1,7 @@
 
-### Hi there, I´m Alexander | Software Engineering 👋👋✨🌱
+| Software Engineering  |  Robotics | Machine Learning - Deep Learning - Reinforcement Learning ✨🌱
 
-
-- 🌱 Currently working with Vue/ Typescript/Javascript, Java, Deep Learning, Python, C++.
-  
-- Learning more about : DevSecOps, Robotics, Embedded Systems, Security, Design Patterns.
+- DevSecOps, Robotics / Machine Learning, Deep Learning, Reinforcement Learning, Embedded Systems.
 
 - ⚡ Fun fact: I teach meditation, like fitness, nutrition, travelling and organic farming 🌱. 
 
